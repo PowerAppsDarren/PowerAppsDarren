@@ -1,0 +1,6 @@
+{
+    "[markdown]": {
+        "editor.fontFamily": "Consolas, 'Courier New', monospace"
+    },
+    "gitdoc.enabled": true
+}
