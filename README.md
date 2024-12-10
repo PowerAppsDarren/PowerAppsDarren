@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Darren Neese</h1>
 
-<h3 align="left" style="background-color:#e5e5e5">A passionate Power Platform developer from Orlando, Florida, USA</h3>
+<h3 align="left" style="background-color:#e5e5e5;">...a passionate Power Platform developer from Orlando, Florida, USA</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
