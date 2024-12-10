@@ -1,5 +1,5 @@
 
-<img src="./Images/profile-svg.svg" width="800" height="400" alt="header">
+<img src="./Images/profile-svg.svg" width="800" height="80" alt="header">
 
 <h1>Hi 👋, I'm Darren Neese&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=powerappsdarren&label=Profile%20views&color=0e75b6&style=plastic" alt="powerappsdarren" /></h1>
 
