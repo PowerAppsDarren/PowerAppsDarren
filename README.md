@@ -2,15 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm Darren Neese</h1>
 
-<h3 align="center" background-color:"#e5e5e5">A passionate Power Platform developer from Orlando, Florida, USA</h3>
+<h3 background-color:"#e5e5e5">A passionate Power Platform developer from Orlando, Florida, USA</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/developermct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developermct" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/darren-neese-4517b8226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darren-neese-4517b8226" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/developermct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="developermct" height="30" width="40" /></a>
-<a href="https://fb.com/100074003928820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100074003928820" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/powerappstutorial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="powerappstutorial" height="30" width="40" /></a>
+    <a href="https://twitter.com/developermct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developermct" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/darren-neese-4517b8226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darren-neese-4517b8226" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/developermct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="developermct" height="30" width="40" /></a>
+    <a href="https://fb.com/100074003928820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100074003928820" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/c/powerappstutorial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="powerappstutorial" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
