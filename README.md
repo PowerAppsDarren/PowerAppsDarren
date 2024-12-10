@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Darren Neese</h1>
 
-<h3 align="left" style="background-color:#e5e5e5;">...a passionate Power Platform developer from Orlando, Florida, USA</h3>
+<p align="left" style="background-color:#e5e5e5;">...a passionate Power Platform developer from Orlando, Florida, USA</p>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=powerappsdarren&label=Profile%20views&color=0e75b6&style=plastic" alt="powerappsdarren" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +25,6 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=powerappsdarren&label=Profile%20views&color=0e75b6&style=plastic" alt="powerappsdarren" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=powerappsdarren&show_icons=true&locale=en&layout=compact" alt="powerappsdarren" /></p>
 
