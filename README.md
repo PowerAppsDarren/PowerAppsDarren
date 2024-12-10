@@ -2,8 +2,6 @@
 
 <p align="left">...a passionate Power Platform developer from Orlando, Florida, USA</p>
 
-<hr>
-
 <p align="left"><img src="https://komarev.com/ghpvc/?username=powerappsdarren&label=Profile%20views&color=0e75b6&style=plastic" alt="powerappsdarren" /> </p>
 
 <h3 align="left">Connect with me:</h3>
