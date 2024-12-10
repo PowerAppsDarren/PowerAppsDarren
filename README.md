@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Darren Neese</h1>
 
-<div align="left" style="background-color:#e5e5e5;margin:50px">...a passionate Power Platform developer from Orlando, Florida, USA</div>
+<p align="left">...a passionate Power Platform developer from Orlando, Florida, USA</p>
+
+<hr>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=powerappsdarren&label=Profile%20views&color=0e75b6&style=plastic" alt="powerappsdarren" /> </p>
 
