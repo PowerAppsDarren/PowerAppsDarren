@@ -36,28 +36,4 @@
 
 <p align="left"> <a href="https://twitter.com/developermct" target="blank"><img src="https://img.shields.io/twitter/follow/developermct?logo=twitter" alt="developermct" /></a> </p>
 
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-                .container {
-                    display: flex;
-                    justify-content: center;
-                    align-items: center;
-                    width: 100%;
-                    height: 100%;
-                    background-color: #0d1117;
-                    color: white;
-                    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto;
-                }
-                .text {
-                    font-size: 24px;
-                    font-weight: bold;
-                }
-            </style>
-            <div class="container">
-                <div class="text">Welcome to my GitHub Profile!</div>
-            </div>
-        </div>
-    </foreignObject>
-</svg>
+<img src="./Images/profile-svg.svg" width="800" height="400" alt="header">
